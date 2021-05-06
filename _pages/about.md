@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+This is Zijing (Allen) Huang on the GitHub Page using [Jekyll & Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I come from China, went over to, Rock Hill, SC, United States for my last 2 years of high school for exchange student program during 2013. Afterwards, I graduated and attended Oregon State University, Corvallis, Oregon. I study Computer Science and focus on web and mobile development. I am expected to graduate in December, 2020. I love playing video games during spare time. I play variety of types of games, sports, FPS, MOBA, etc. Currently I have a team named Just4Fun that consists 4 international students locating in different place including US and Canada. We are opened for more people like us who love playing games and enjoying creating contents to join us.
