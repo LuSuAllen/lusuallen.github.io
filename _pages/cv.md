@@ -19,6 +19,7 @@ Education
    | CS 492 | Mobile Software Development   | Winter 2020 | A  |
    | CS 493 | Cloud Application Development | Spring 2020 | A  |
    | CS 499 | Advanced Web Development      | Winter 2020 | A  |
+   -------------------------------------------------------------
 
 Project
 ======
