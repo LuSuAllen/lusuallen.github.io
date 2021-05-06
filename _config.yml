@@ -64,9 +64,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Zijing (Allen) Huang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Computer scientist, product management, inspired to change the world. PC, console gamer."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -80,6 +80,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/lusuallen"
+    - label: "Steam"
+      icon: "fab fa-fw fa-steam"
+      url: "https://steam.com/KdTrey5"
 
 footer:
   links:
