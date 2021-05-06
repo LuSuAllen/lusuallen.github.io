@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
 This is Zijing (Allen) Huang on the GitHub Page using [Jekyll & Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)!
