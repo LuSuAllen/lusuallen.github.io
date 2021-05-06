@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Resume"
 permalink: /cv/
 author_profile: true
 ---
 
-Resume: [English](../files/简历_英.pdf) | [中文](../files/简历_中.pdf)
+| [English](../files/简历_英.pdf) | [中文](../files/简历_中.pdf) |
 
 Education
 ======
