@@ -11,7 +11,7 @@ Education
 ======
 * High School in Rock Hill, Westminster Catawba Christian School, 2015
 * B.S. in Corvallis, Oregon State University, 2021
-* Core Course Taken
+* Core Course Taken\
    | Course | Name                          | Term        | Grade |
    ----------------------------------------------------------------
    | CS 290 | Web Development               | Spring 2018 | A-    |
