@@ -14,7 +14,7 @@ Education
 * Core Course Taken
    
    | Course | Name                          | Term        | Grade |
-   ----------------------------------------------------------------
+   |--------|-------------------------------|-------------|-------|
    | CS 290 | Web Development               | Spring 2018 | A-    |
    | CS 340 | Introduction to Database      | Winter 2019 | A     |
    | CS 450 | Computer Graphics             | Fall 2019   | A     |
