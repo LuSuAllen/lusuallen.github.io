@@ -13,15 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: LuSuAllen
+masthead_title: "LuSuAllen's Page"
+subtitle: "Version 1.0"
+url: "https://lusuallen.github.io/lusuallen.github"
+baseurl: "/lusuallen.github"
+repository: "lusuallen/lusuallen.github"
+name: "Zijing (Allen) Huang"
+email: zijing_huang@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+twitter_username: Allen_Zijing
+github_username: LuSuAllen
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
@@ -64,16 +70,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      # url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/Allen_Zijing"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/LuSuAllen"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/lusuallen"
 
 footer:
   links:
@@ -99,6 +105,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
