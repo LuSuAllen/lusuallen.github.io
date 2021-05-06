@@ -6,7 +6,6 @@ categories:
 tags:
   - Jekyll
   - update
-
 comments:
   provider: "facebook"
   facebook:
