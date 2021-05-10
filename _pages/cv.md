@@ -24,15 +24,13 @@ Education
 
 Project
 ======
-* League of Legend Summoner Finder
+* [League of Legend Summoner Finder](https://github.com/OregonTeamWE/LeagueStatFinder)
   * Android App
   * Product management, UI design, developer
-  * [Repository](https://github.com/OregonTeamWE/LeagueStatFinder)
 
-* eBay for Tabletop Gamers
+* [eBay for Tabletop Gamers](https://github.com/OregonTeamWE/TableStop)
   * Android App
   * Product management, UI design, developer
-  * [Repository](https://github.com/OregonTeamWE/TableStop)
 
 Skills
 ======
