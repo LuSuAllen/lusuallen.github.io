@@ -102,7 +102,7 @@ footer:
       url: "https://www.linkedin.com/"
     - label: "Steam"
       icon: "fab fa-fw fa-steam"
-      url: "https:/www.steam.com/"
+      url: "https://store.steampowered.com/"
 
 defaults:
   # _posts
