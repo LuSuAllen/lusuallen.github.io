@@ -26,3 +26,10 @@ Oregon Team WE
 * League Stat Finder Members: 
   * [Zijing (Allen) Huang](https://github.com/LuSuAllen) 
   * [Jinning (Billy) Zhang](https://github.com/jinningzhang6)
+
+Just 4 Fun
+==========
+![Image of Just4Fun](../assets/images/Just4Fun.png)
+* Member:
+  * Zijing (Allen) Huang
+  * Zhiheng Zhang
