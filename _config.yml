@@ -18,6 +18,7 @@ masthead_title: "LuSuAllen's Page"
 subtitle: "Version 1.0"
 url: "https://lusuallen.github.io/"
 repository: "lusuallen/lusuallen.github"
+teaser: /assets/images/500x300.png
 name: "Zijing (Allen) Huang"
 email: zijing_huang@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -117,7 +118,6 @@ defaults:
       share: true
       related: true
       show_date: true
-    teaser: /assets/images/500x300.png
   # _pages
   - scope:
       path: "_pages"
