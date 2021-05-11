@@ -64,7 +64,7 @@ plugins:
 
 author:
   name   : "Zijing (Allen) Huang"
-  avatar : "/assets/images/Profile.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Computer scientist, product management, inspired to change the world. PC, console gamer."
   links:
     - label: "Website"
