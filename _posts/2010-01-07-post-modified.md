@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 header:
-   teaser: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/4.22.0/docs/assets/images/default-code-block.jpg
+   teaser: /assets/images/default-code-block.jpg
 ---
 
 This post has been updated and should show a modified date if used in a layout.
