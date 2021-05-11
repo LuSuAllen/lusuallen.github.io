@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 header:
-   teaser: /assets/images/default-code-block.jpg
+  teaser: /assets/images/default-code-block.jpg
 ---
 
 This post has been updated and should show a modified date if used in a layout.
