@@ -117,7 +117,7 @@ defaults:
       share: true
       related: true
       show_date: true
-    teaser: /assets/images/500x300.png
+    teaser: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/4.22.0/docs/assets/images/default-code-block.jpg
   # _pages
   - scope:
       path: "_pages"
